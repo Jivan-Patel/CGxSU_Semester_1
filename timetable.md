@@ -1,3 +1,203 @@
+### 18 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Ranjan Sir (React)                | 9:00–10:30   | Samir Sir (C++ Revision STL)    |
+| 10:30–12:00 | Samir Sir (C++ Revision STL)            | 10:30–12:00 | Ranjan Sir (React)       |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:30   | Neel Sir (Backend)                            | 1:00–2:30    |   Samir Sir (C++ Revision OOPS)        |
+| 2:30–4:00   | Samir Sir (C++ Revision OOPS)                  | 2:30–4:00      |   Neel Sir (Backend)     |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+
+### 17 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Ashish Sir (Maths)                | 9:00–10:30   | Neel Sir (Backend)    |
+| 10:30–12:00 | Neel Sir (Backend)            | 10:30–12:00 | Ashish Sir (Maths)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | English                            | 1:00–2:00    |   Ranjan Sir (React)          |
+| 2:00–3:00   | Yogesh Sir (Node)                  | 2:00–3:00      |   English    |
+| 3:00–4:00   | Ranjan Sir (React)                 | 3:00–4:00      |   Yogesh Sir (Node)  |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+
+### 16 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Ashish Sir (Maths)                | 9:00–10:30   | Ranjan Sir (React)    |
+| 10:30–12:00 | Ranjan Sir (React)            | 10:30–12:00 | Ashish Sir (Maths)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | English                            | 1:00–2:00    |   Maths(Unit 1 Test)          |
+| 2:00–3:00   | Yogesh Sir (Node)                  | 2:00–3:00      |   English    |
+| 3:00–4:00   | Maths(Unit 1 Test)                   | 3:00–4:00      |   Yogesh Sir (Node)  |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+### 15 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Ashish Sir (Maths)                | 9:00–10:30   | Samir Sir (Leetcode)    |
+| 10:30–12:00 | Samir Sir (Leetcode)            | 10:30–12:00 | Ashish Sir (Maths)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | Project Assignment                            | 1:00–2:00    |   Project Assignment          |
+| 2:00–3:00   | Vanguard Activity                  | 2:00–3:00      |   Vanguard Activity    |
+| 3:00–4:30   | Vanguard Activity                 | 3:00–4:00      |   Vanguard Activity   |
+
+### 14 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Ashish Sir (Maths)                | 9:00–10:30   | Neel Sir (Backend)    |
+| 10:30–12:00 | Neel Sir (Backend)            | 10:30–12:00 | Ashish Sir (Maths)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | English                            | 1:00–2:00    |   Samir Sir          |
+| 2:00–3:00   | Ranjan Sir (React)                  | 2:00–3:00      |   English    |
+| 3:00–4:00   | Samir Sir                   | 3:00–4:00      |   Ranjan Sir (React)   |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+### 13 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Ashish Sir (Maths)                | 9:00–10:30   | Ranjan Sir (React)    |
+| 10:30–12:00 | Ranjan Sir (React)            | 10:30–12:00 | Ashish Sir (Maths)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | English                            | 1:00–2:00    |   Samir Sir (C++)         |
+| 2:00–3:00   | Neel Sir (Backend)                  | 2:00–3:00      |   English    |
+| 3:00–4:00   | Samir Sir (C++)                  | 3:00–4:00      |   Neel Sir (Backend)   |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+### 11 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:00–10:30  | Neel Sir (SEO)                | 9:00–10:30   | Ashish Sir (React)    |
+| 10:30–12:00 | Samir Sir (React)            | 10:30–12:00 | Neel Sir (SEO)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | Ranjan Sir (React)                   | 1:00–2:00    | Yogesh Sir (Node)         |
+| 2:00–3:00   | Yogesh Sir (Node)                  | 2:00–3:00      |   Samir Sir (C++)    |
+| 3:00–4:00   | Samir Sir (C++)                  | 3:00–4:00      |   Ranjan Sir (React)   |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+### 10 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:40  | Neel Sir (SEO)                | 9:15–10:40  | Ashish Sir (Maths)    |
+| 10:40–12:00 | Ashish Sir (Maths)            | 10:40–12:00 | Neel Sir (SEO)        |
+| 12:00–1:00  | Break                              | 12:00–1:00  | Break            |
+| 1:00–2:00   | Ranjan Sir (React)                   | 1:00–2:00    | Yogesh Sir (Node)         |
+| 2:00–3:00   | Yogesh Sir (Node)                  | 2:00–3:00      |   Samir Sir (C++)    |
+| 3:00–4:00   | Samir Sir (C++)                  | 3:00–4:00      |   Ranjan Sir (React)   |
+| 4:00–4:15   | Break                        | 4:00–4:15  | Break                  |
+| 4:15–5:15   | Industry Readiness 01 | 4:15–5:15  | Industry Readiness 01                 |
+| 5:15–6:00   | Industry Readiness 02 | 5:15–6:00  | Industry Readiness 02                |
+
+### 09 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Samir Sir (C++)                | 9:15–10:45  | Ashish Sir (Maths)    |
+| 10:45–12:15 | Ashish Sir (Maths)            | 10:45–12:15 | Samir Sir (C++)        |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:45   | English/Project Work                   | 1:15–2:45    | English/Project Work           |
+| 2:45–4:15   | Yogesh Sir (Node)                  | 2:45–4:15      |   Ranjan Sir (React)   |
+| 4:15–4:45   | Break                        | 4:15–4:45  | Break                  |
+| 4:45–6:00   | Industry Readiness 01 | 4:45–6:00  | Industry Readiness 01                 |
+
+### 08 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Ranjan Sir (Full Stack)            | 9:15–10:45  | Ashish Sir (Maths)    |
+| 10:45–12:15 | Ashish Sir (Maths)                 | 10:45–12:15 | Ranjan Sir (Full Stack)        |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:30   | English/Project Work               | 1:15–2:30    | English/Project Work           |
+| 2:30–3:30   | Vanguard Activity                  | 2:30–3:30      |  Vanguard Activity    |
+| 3:30–4:30   | Vanguard Activity                  | 3:30–4:30      | Vanguard Activity          |
+
+### 07 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Samir Sir (C++)                | 9:15–10:45  | Ashish Sir (Maths)    |
+| 10:45–12:15 | Ashish Sir (Maths)            | 10:45–12:15 | Samir Sir (C++)        |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:45   | English/Project Work                   | 1:15–2:45    | English/Project Work           |
+| 2:45–4:15   | Samir Sir (React)                  | 2:45–4:15      |   Ranjan Sir (Full Stack)   |
+| 4:15–4:45   | Break                        | 4:15–4:45  | Break                  |
+| 4:45–6:00   | Industry Readiness 01 | 4:45–6:00  | Industry Readiness 01                 |
+
+### 06 April
+
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Neel Sir (SEO)                | 9:15–10:45  | Samir Sir (C++)     |
+| 10:45–12:15 | Samir Sir (C++)            | 10:45–12:15 | Neel Sir (SEO)          |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:45   | English/Project Work                   | 1:15–2:45    | English/Project Work           |
+| 2:45–4:15   | Ranjan Sir (Full Stack)                  | 2:45–4:15      |  Samir Sir (React)    |
+| 4:15–4:45   | Break                        | 4:15–4:45  | Break                  |
+| 4:45–6:00   | Industry Readiness 01 | 4:45–6:00  | Industry Readiness 01                 |
+
+### 04 April
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Samir Sir (React)                | 9:15–10:45  | Ranjan Sir (Full Stack)  |
+| 10:45–12:15 | Ranjan Sir (Full Stack)           | 10:45–12:15 | Samir Sir (React)       |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break                  |
+| 1:15–2:45   | Yogesh Sir (Node)                   | 1:15–2:45    | Samir Sir (C++)      |
+| 2:45–4:15   | Samir Sir (C++)                  | 2:45–4:15      |   Yogesh Sir (Node)   |
+| 4:15–4:45   | Break                        | 4:15–4:45  | Break                  |
+| 4:45–6:00   | Industry Readiness 01 | 4:45–6:00  | Industry Readiness 01                 |
+
+
+### 03 April
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Samir Sir (React)                | 9:15–10:45  | Ranjan Sir (Full Stack)    |
+| 10:45–12:15 | Ranjan Sir (Full Stack)           | 10:45–12:15 | Samir Sir (React)          |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:45   | English/Project Work                   | 1:15–2:45    | English/Project Work           |
+| 2:45–4:15   | Samir Sir (C++)                  | 2:45–4:15      |   Yogesh Sir (Node)   |
+| 4:15–4:45   | Break                        | 4:15–4:45  | Break                  |
+| 4:45–6:00   | Industry Readiness 01 | 4:45–6:00  | Industry Readiness 01                 |
+
+### 02 April
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Ashish Sir (Maths)                | 9:15–10:45  | Ranjan Sir (Full Stack)    |
+| 10:45–12:15 | Ranjan Sir (Full Stack)           | 10:45–12:15 | Ashish Sir (Maths)          |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:45   | English/Project Work                   | 1:15–2:45    | English/Project Work           |
+| 2:45–4:15   | Samir Sir (C++)                  | 2:45–4:15      |   Yogesh Sir (Node)   |
+| 4:15–4:45   | Break                        | 4:15–4:45  | Break                  |
+| 4:45–6:00   | Industry Readiness 01 | 4:45–6:00  | Industry Readiness 01                 |
+
+### 01 April
+| Time        | CG LAB 1                     | Time        | CG LAB 2               |
+|-------------|------------------------------|-------------|-------------------------|
+| 9:15–10:45  | Ashish Sir (Maths)                | 9:15–10:45  | Ranjan Sir (Full Stack)    |
+| 10:45–12:15 | Ranjan Sir (Full Stack)           | 10:45–12:15 | Ashish Sir (Maths)          |
+| 12:15–1:15  | Break                              | 12:15–1:15  | Break            |
+| 1:15–2:45   | Vanguard Activity                   | 1:15–2:45    | Vanguard Activity           |
+| 2:45–4:15   | Vanguard Activity                  | 2:45–4:15      |   Vanguard Activity   |
+
 ### 07 March
 | Time        | CG LAB 1                     | Time        | CG LAB 2               |
 |-------------|------------------------------|-------------|-------------------------|
